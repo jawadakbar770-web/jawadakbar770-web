@@ -23,8 +23,7 @@ Passionate about writing **clean, scalable, and professional code**.
 
 Here are some of my notable projects:
 
-- **[HR Employee Portal]([https://github.com/jawadakbar770-web/hr-employee-portal](https://github.com/jawadakbar770-web/Mern-Hr-Employee-Management))** – Full-stack MERN HR management system  
-<!-- Add more projects here if available -->
+- **[Mern-Hr-Employee-Management](https://github.com/jawadakbar770-web/Mern-Hr-Employee-Management)** – MERN stack project for employee management, including attendance, payroll, and performance tracking.
 
 ---
 
