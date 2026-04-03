@@ -38,14 +38,6 @@ Here are some of my notable projects:
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/jawadakbar770-web/jawadakbar770-web/blob/output/github-contribution-grid-snake.svg)
-
-> ⚠️ Make se your **GitHub Actions workflow** is running and the `output` branch exists, otherwise the snake will not show.
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jawad-akbar-4aa483295)  
