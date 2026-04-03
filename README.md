@@ -18,5 +18,8 @@ Projects
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadakbar770-web&layout=compact&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=jawadakbar770-web&theme=tokyonight)
-Snake
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/jawadakbar770-web/jawadakbar770-web/blob/output/github-contribution-grid-snake.svg)
 Connect
+![Typing](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&lines=MERN+Stack+Developer;Frontend+Specialist;Building+Real+Projects)
