@@ -32,8 +32,8 @@ Here are some of my notable projects:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jawadakbar770-web&show_icons=true&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadakbar770-web&layout=compact&theme=tokyonight&hide_border=false)
+![Stats](https://gh-readme-stats.vercel.app/api?username=jawadakbar770-web&show_icons=true&theme=tokyonight)
+![Top Langs](https://gh-readme-stats.vercel.app/api/top-langs/?username=jawadakbar770-web&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=jawadakbar770-web&theme=tokyonight)
 
 ---
@@ -42,7 +42,7 @@ Here are some of my notable projects:
 
 ![Snake animation](https://github.com/jawadakbar770-web/jawadakbar770-web/blob/output/github-contribution-grid-snake.svg)
 
-> ⚠️ Make sure your **GitHub Actions workflow** is running and the `output` branch exists, otherwise the snake will not show.
+> ⚠️ Make se your **GitHub Actions workflow** is running and the `output` branch exists, otherwise the snake will not show.
 
 ---
 
